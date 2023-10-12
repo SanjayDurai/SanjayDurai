@@ -18,7 +18,7 @@ I’m a passionate coder with intermediate experience in Python, Web development
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,django,bootstrap,nodejs,express,postgres,git,github,arduino,discord,express,jquery,matlab,react,nodejs,postman,js,html,css,unity,vscode,bash,spring,gradle,idea,maven,ps,r)](https://mr-friend-sanjay.github.io/sanjayportfolio/)
+[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,django,bootstrap,nodejs,express,postgres,git,github,arduino,discord,vscode,jquery,matlab,react,nodejs,postman,js,html,css,unity,vscode,bash,spring,gradle,idea,maven,ps,r)](https://mr-friend-sanjay.github.io/sanjayportfolio/)
 
 ### Badges
 

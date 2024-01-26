@@ -7,7 +7,7 @@ Web developer and Electronics Engineer
 I’m a passionate coder with intermediate experience in Python, Web development, and MERN stack . I have built projects using HTML, CSS, JavaScript. I also love teaching and sharing my skills with others.
 
 * 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [SanjayDuraipandian.com](https://mr-friend-sanjay.github.io/sanjayportfolio/)
+* 🖥️  See my portfolio at [SanjayDuraipandian.com](https://sanjayduraipandian.onrender.com)
 * ✉️  You can contact me at [sanjayduraipandiyan@gmail.com](mailto:sanjayduraipandiyan@gmail.com)
 * 🧠  I'm learning App Development
 * 🤝  I'm open to collaborating on interesting projects

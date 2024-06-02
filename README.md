@@ -9,7 +9,7 @@ I’m a passionate coder with intermediate experience in Python, Web development
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [SanjayDuraipandian.com](https://sanjayduraipandian.onrender.com)
 * ✉️  You can contact me at [sanjayduraipandiyan@gmail.com](mailto:sanjayduraipandiyan@gmail.com)
-* 🧠  I'm learning App Development
+* 🧠  I'm learning New Technologies
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Experience

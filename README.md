@@ -1,7 +1,7 @@
 Hi 👋 My name is Sanjay D
 ============================
 
-Web developer and Electronics Engineer
+AIML Enthusiast || Web developer || Electronics Engineer
 -----------------------------------
 
 I’m a passionate coder with intermediate experience in Python, Web development, and MERN stack . I have built projects using HTML, CSS, JavaScript. I also love teaching and sharing my skills with others.
